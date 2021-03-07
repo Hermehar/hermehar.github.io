@@ -70,6 +70,8 @@
 .about {
   padding-top: 30px;
   background-color: gray;
+  background: url("https://media-exp1.licdn.com/dms/image/C4E03AQHGhMVIJ_te0A/profile-displayphoto-shrink_200_200/0/1604830024604?e=1620864000&v=beta&t=ug2u9h_cNdWXVIXC13pO6MyVx8ndUUMheHjFA2DfyxA")
+              no-repeat;
   text-align: center;
 }
 .about-image {
