@@ -249,6 +249,17 @@
     width: 100rm;
     text-align: center;
   }
+/* volunteering section */
+.volunteer {
+  background:rgb(131, 128, 128);
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    text-align: center;
+  }
+  .card-works {
+    width: 100rm;
+    text-align: center;
+  } 
   /* Contact Section */
   .contact-background {
     background: transparent;
