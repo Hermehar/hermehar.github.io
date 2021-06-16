@@ -262,9 +262,7 @@
   } 
   /* Contact Section */
   .contact-background {
-    background: transparent;
-    background: url("https://github.com/Code-Man23/Code-Man23.github.io/blob/master/land.jpg?raw=true")
-                no-repeat;
+    background: white;
     background-size: cover;
     background-position: bottom;
     background-attachment: fixed;
